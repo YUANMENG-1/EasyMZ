@@ -1,0 +1,3 @@
+[console_scripts]
+pyMS_Few = pyMS_Few.main:main
+
