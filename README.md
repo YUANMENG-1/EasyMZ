@@ -1,1 +1,1 @@
-# EasyMZ Project
+# EasyMZ
